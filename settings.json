@@ -7,15 +7,15 @@
   },
   "server": {
     "ip": "2F2T-HW.aternos.me",
-    "port": 30842,
+    "port": 27586,
     "version": "",
     "try-creative": false
   },
   "position": {
     "enabled": true,
-    "x": 0,
-    "y": 100,
-    "z": 0
+    "x": -73.479,
+    "y": 69,
+    "z": -541.700
   },
   "utils": {
     "auto-auth": {
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Do you like this server?",
         "I like to play Minecraft!"
       ]
     },
